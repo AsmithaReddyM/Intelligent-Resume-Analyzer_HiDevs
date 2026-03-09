@@ -1,1 +1,5 @@
-# Add your project dependencies here
+PyPDF2
+chromadb
+langchain-text-splitters
+langchain-huggingface
+sentence-transformers

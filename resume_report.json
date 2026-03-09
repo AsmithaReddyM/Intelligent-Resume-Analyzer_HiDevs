@@ -1,0 +1,16 @@
+{
+    "name": "John Doe",
+    "email": "johndoe@example.com",
+    "skills": [
+        "python",
+        "machine learning",
+        "data analysis",
+        "sql",
+        "deep learning",
+        "nlp",
+        "pandas",
+        "numpy"
+    ],
+    "match_score": 100.0,
+    "recommendation": "Strong Candidate"
+}
